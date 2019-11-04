@@ -1,6 +1,8 @@
 # Template Repository
 A repository set up with the correct settings from which new repositories should be created.
 
+When a new repository is created appropiate personnel should be added to the appropiate roles under the tab "Collaborators & teams" under "Settings". There should at least be one collaborator with the "Admin"  permission which should be the relevant module owner if it's a module repository or the most relevant developer if it is a repository for a smaller code base. Additional developers should be given the "Write" permission.
+
 Below follows a template of how the README of projects should look like at bare minimum. The contents of the README should be constantly updated when changes relating to it are made.
 
 # Repository Name
